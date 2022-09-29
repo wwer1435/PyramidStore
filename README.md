@@ -10,16 +10,15 @@
 
 ## [爬虫支持列表查看](https://github.com/UndCover/PyramidStore/blob/main/list.md)
 
-|文件名|名称|作者|描述|注意|
-|---|:---:|:---:|---|---|
-|py_ali|阿里云盘|UndCover|用于阿里云盘爬取及阿里系爬虫调用|个人token请搜索refresh_token进行替换|
-|py_zhaozy|找资源|UndCover|调用py_ali||
-|py_pansou|盘搜|UndCover|调用py_ali||
-|py_bilibili|哔哩哔哩|UndCover|||
-|py_czspp|厂长|UndCover|||
-|py_zxzj|在线资源|UndCover|||
-
-[更多](https://github.com/UndCover/PyramidStore/blob/main/list.md)
+|文件名|名称|
+|---|:---:|
+|py_ali|阿里云盘|
+|py_zhaozy|找资源|
+|py_pansou|盘搜|
+|py_bilibili|
+|py_czspp||
+|py_zxzj||
+|[查看更多](https://github.com/UndCover/PyramidStore/blob/main/list.md)||
 
 ---
 
@@ -47,16 +46,10 @@
 ### 1. 为什么会有这个东西
 个人觉得python调试和维护起来会比较方便一点
 
-### 2.为什么现在放出来
-Chaquopy在7月24日解除了license限制，然后就想放出来试试
-
-### 3.为什么apk会这么大
-apk打包了armeabi-v7a和x86_64两个版本的依赖文件，所以比普通的版本大16m左右。后续会做优化
-
-### 4.会不会开源
+### 2.会不会开源
 未来代码将会出现在[这里](https://github.com/UndCover/Pyramid)
 
-### 5.目前还有哪些问题
+### 3.目前还有哪些问题
 现缺失解析器等功能
 
 ## 问题反馈
